@@ -4,6 +4,5 @@ Sorun gönderiler componentinde gibi duruyor. Normalde, Gonderiler component'i g
 
 Proplemi düzelteceğiz.
 
-İpucu: .map() metoduna bakabilirsin
-İpucu: .map() yapınca oluşan element'e key atribute'u eklemeyi unutma. Uygulama hata vermez ama console'a hata basar.
+
 Çalışma dosyaları: src/components/Gonderiler/Gonderiler.jsx, src/components/Gonderiler/Gonderi.jsx, src/components/Gonderiler/BegenBolumu.jsx
